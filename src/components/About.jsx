@@ -47,11 +47,17 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        As a front-end developer, I specialize in crafting engaging and visually
+        appealing landing pages that help small businesses establish their
+        online presence. I have extensive experience in front-end technologies
+        like HTML, CSS, and JavaScript, as well as expertise in popular
+        frameworks like React JS. In addition to landing pages, I also work on
+        developing e-commerce websites that are not only aesthetically pleasing
+        but also scalable and user-friendly. I am committed to delivering
+        high-quality solutions that meet the unique needs of my clients, and I'm
+        always looking for new challenges to help bring innovative ideas to
+        life. Let's work together to create a website that will set your
+        business apart from the rest!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
