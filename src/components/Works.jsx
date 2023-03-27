@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { github } from "../assets";
+
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
@@ -38,13 +39,14 @@ const ProjectCard = ({
             {/* Demo */}
             <div
               onClick={() => window.open(demo_link, "_blank")}
-              className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
+              className="black-gradient w-20 h-10 rounded-full flex justify-center items-center cursor-pointer"
             >
-              <img
+              Demo
+              {/* <img
                 src={github}
                 alt="source code"
                 className="w-1/2 h-1/2 object-contain"
-              />
+              /> */}
             </div>
             {/* Repository link */}
             <div

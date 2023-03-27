@@ -210,19 +210,23 @@ const projects = [
   {
     name: "Car Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Next.js and Stripe integration for payment processing. Sanity.io database for eCommerce data management. Customizable and user-friendly interface with advanced inventory and order management capabilities.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "stripe",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "sanity",
         color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "yellow-text-gradient",
       },
     ],
     image: carrent,
@@ -230,46 +234,48 @@ const projects = [
     demo_link: "https://vdoh.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "Time Zones Scheduler",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Time Zones Scheduler is a simple app that helps you to schedule meetings with people from different time zones. It is a simple and easy to use app that helps you to schedule meetings with people from different time zones.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "i18next",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shmudivel/TimeZones",
+    demo_link: "https://shmudivel.github.io/TimeZones/",
   },
   {
-    name: "Trip Guide",
+    name: "Cargo Calculator",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Use as simple box and pipes volume calculator on-the-go! This app has got everything you need to calculate right volume of boxes and pipes. It also provide 3 languages, this calculator is for everyone.",
     tags: [
       {
-        name: "nextjs",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "i18next",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shmudivel/cargo-calculator",
+    demo_link: "https://shmudivel.github.io/cargo-calculator/",
   },
 ];
 
