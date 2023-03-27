@@ -182,26 +182,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "Darkhan is like a ninja. He can stealthily fix bugs and optimize code without anyone ever knowing they were there.",
+    name: "Fara Lee",
     designation: "CFO",
-    company: "Acme Co",
+    company: "Costa Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Darkhan does.",
+    name: "Chris Sherlov",
     designation: "COO",
-    company: "DEF Corp",
+    company: "Devan Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "Darkhan is like a rockstar, but instead of shredding on a guitar, he is shredding our website's loading times to pieces.",
+    name: "Li Wang",
     designation: "CTO",
-    company: "456 Enterprises",
+    company: "CatInspections Inc",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
