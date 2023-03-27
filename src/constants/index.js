@@ -226,7 +226,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shmudivel/sanity-vdohKz",
+    demo_link: "https://vdoh.vercel.app/",
   },
   {
     name: "Job IT",
