@@ -30,6 +30,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import dictionary from "./dictionary.png";
+import inProgress from "./inProgress.png";
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   jobit,
   tripguide,
   dictionary,
+  inProgress,
 };

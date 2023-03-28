@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   dictionary,
+  inProgress,
 } from "../assets";
 
 export const navLinks = [
@@ -300,6 +301,50 @@ const projects = [
     source_code_link:
       "https://github.com/shmudivel/dictionary-cn-ru-en-firebase",
     demo_link: "https://shmudivel.github.io/dictionary-cn-ru-en-firebase/",
+  },
+  {
+    name: "Website for spa salon",
+    description:
+      "It will be a simple landing page with various descriptions of spa procedures and their corresponding prices.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "i18next",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: inProgress,
+    source_code_link: "https://www.youtube.com/watch?v=ZZ5LpwO-An4&t=80s",
+    demo_link: "https://www.youtube.com/watch?v=ZZ5LpwO-An4&t=80s",
+  },
+  {
+    name: "Accounting software",
+    description:
+      "Our upcoming pet project simplifies financial management for small business owners. It features a user-friendly interface for tracking income and expenses, creating invoices, managing inventory, and generating financial reports.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "i18next",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: inProgress,
+    source_code_link: "https://www.youtube.com/watch?v=ZZ5LpwO-An4&t=80s",
+    demo_link: "https://www.youtube.com/watch?v=ZZ5LpwO-An4&t=80s",
   },
 ];
 
