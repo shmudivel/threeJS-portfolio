@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  dictionary,
 } from "../assets";
 
 export const navLinks = [
@@ -208,7 +209,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "eCommerce website",
     description:
       "Next.js and Stripe integration for payment processing. Sanity.io database for eCommerce data management. Customizable and user-friendly interface with advanced inventory and order management capabilities.",
     tags: [
@@ -276,6 +277,29 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/shmudivel/cargo-calculator",
     demo_link: "https://shmudivel.github.io/cargo-calculator/",
+  },
+  {
+    name: "Shaft Dictionary CN-RU-EN",
+    description:
+      "Mining Dictionary for technical translators. Accessible in 3 languages, Chinese, English and Russian. Useful for technical translators.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "i18next",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: dictionary,
+    source_code_link:
+      "https://github.com/shmudivel/dictionary-cn-ru-en-firebase",
+    demo_link: "https://shmudivel.github.io/dictionary-cn-ru-en-firebase/",
   },
 ];
 
