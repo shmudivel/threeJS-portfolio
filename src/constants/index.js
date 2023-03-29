@@ -201,7 +201,7 @@ const testimonials = [
   {
     testimonial:
       "Darkhan is like a rockstar, but instead of shredding on a guitar, he is shredding our website's loading times to pieces.",
-    name: "Li Wang",
+    name: "Lil Wang",
     designation: "CTO",
     company: "CatInspections Inc",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
